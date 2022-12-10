@@ -30,6 +30,7 @@ v0.1からの変更点
 
 ## 用意するもの/使い方
 
+- [Google Colab](https://colab.research.google.com/github/kaitas/8528d-WebUI/blob/main/8528_diffusion_v0_2_WebUI.ipynb)
 - Hugging Faceのアカウント
   - Settings→ [Access Tokens](https://huggingface.co/settings/tokens) で Token を取得しておく 
 

@@ -30,7 +30,9 @@ v0.1からの変更点
 
 ## 用意するもの/使い方
 
-- [Google Colab](https://colab.research.google.com/github/kaitas/8528d-WebUI/blob/main/8528_diffusion_v0_2_WebUI.ipynb)
+![https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667](https://colab.research.google.com/github/kaitas/8528d-WebUI/blob/main/8528_diffusion_v0_2_WebUI.ipynb)
+ 
+-  [Google Colab](https://colab.research.google.com/github/kaitas/8528d-WebUI/blob/main/8528_diffusion_v0_2_WebUI.ipynb)
 - Hugging Faceのアカウント
   - Settings→ [Access Tokens](https://huggingface.co/settings/tokens) で Token を取得しておく 
 
